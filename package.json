@@ -1,0 +1,30 @@
+{
+  "name": "working-with-files.-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FryDay969/working_with_files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FryDay969/working_with_files/issues"
+  },
+  "homepage": "https://github.com/FryDay969/working_with_files#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "filesystem": "^1.0.1",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.12",
+    "node-xlsx": "^0.17.2",
+    "nodemon": "^2.0.14"
+  }
+}
